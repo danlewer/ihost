@@ -5,7 +5,7 @@
 # the main analysis looks at an interaction between iHost site (yes/no) and before/after to estimate the association between iHost and the difference in outcome (i.e. difference in difference)
 # we assume some variation in clinial practice between sites and therefore use a mixed model with random intercepts for hospital site
 # the use of a mixed model in this simulation does not substantially affect power. It did identify that singularity may be a problem with model fitting, depending on the degree of variation between sites
-# the simulation suggests 80% power to detect a risk ratio of 0.71, if all three iHOST sites are included
+# the simulation suggests 80% power to detect a risk ratio of 0.71, if all three iHOST sites are included and we assume the same effect across hospitals
 # if only one site is analysed in isolation, there is 80% power to detect a risk ratio of 0.57
 
 #  :::::::::::::::::::::::
