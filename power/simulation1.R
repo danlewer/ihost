@@ -28,7 +28,6 @@ baseline_risk <- 0.15
 # patient numbers
 
 iHost <- 500
-number_iHost_sites <- 3
 per_comparison <- 50
 number_comparisons <- 50
 
