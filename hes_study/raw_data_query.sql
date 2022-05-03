@@ -1,0 +1,23 @@
+SELECT final.PSEUDO_HESID, final.EPIKEY, final.FYEAR, final.ADMIDATE, final.PROCODE, final.PROCODE3, final.PROCODET, final.SITETRET, final.DIAG_01
+FROM HES_APC.dbo.[vHES_APC_Flat] final
+
+INNER JOIN
+
+(
+  SELECT DISTINCT main.PSEUDO_HESID
+  FROM HES_APC.dbo.[vHES_APC_Flat] main
+
+  INNER JOIN
+
+  (
+    SELECT DISTINCT EPIKEY
+    FROM HES_APC.dbo.vtHES_APC_DIAG
+    WHERE DiagCode4 LIKE 'F11%'
+    AND FYEAR IN ('1819', '1920', '2021', '2122')
+  ) as opi
+
+  ON main.EPIKEY = opi.EPIKEY
+  WHERE FYEAR IN ('1819', '1920', '2021', '2122')
+) as ids
+
+ON final.PSEUDO_HESID = ids.PSEUDO_HESID
