@@ -3,7 +3,7 @@
   FROM HES_APC.dbo.[vHES_APC_Flat]
 
   WHERE (DIAG4_01 = 'U071'
-	  OR DIAG4_02 = 'U071'
+      OR DIAG4_02 = 'U071'
       OR DIAG4_03 = 'U071'
       OR DIAG4_04 = 'U071'
       OR DIAG4_05 = 'U071'
@@ -22,8 +22,8 @@
       OR DIAG4_18 = 'U071'
       OR DIAG4_19 = 'U071'
       OR DIAG4_20 = 'U071'
-	    OR DIAG4_01 = 'U073'
-	    OR DIAG4_02 = 'U073'
+      OR DIAG4_01 = 'U073'
+      OR DIAG4_02 = 'U073'
       OR DIAG4_03 = 'U073'
       OR DIAG4_04 = 'U073'
       OR DIAG4_05 = 'U073'
@@ -43,8 +43,8 @@
       OR DIAG4_19 = 'U073'
       OR DIAG4_20 = 'U073')
 
-	  AND EPIORDER = 1
-	  AND FYEAR IN (1819, 1920, 2021, 2122)
+AND EPIORDER = 1
+AND FYEAR IN (1819, 1920, 2021, 2122)
 
 GROUP BY ADMIDATE, PROCODE3, SITETRET
 	  
