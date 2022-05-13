@@ -1,1 +1,32 @@
+SELECT ae.ENCRYPTED_HESID, ae.ARRIVALDATE
+FROM [dbo].[vtHES_AE] ae
 
+INNER JOIN
+
+(SELECT DISTINCT ENCRYPTED_HESID
+FROM HES_APC.dbo.[vHES_APC_Flat]
+WHERE FYEAR IN ('1718', '1819', '1920', '2021', '2122')
+    AND EPISTAT = 3
+    AND (DIAG3_01 = 'F11'
+	  OR DIAG3_02 = 'F11'
+      OR DIAG3_03 = 'F11'
+      OR DIAG3_04 = 'F11'
+      OR DIAG3_05 = 'F11'
+      OR DIAG3_06 = 'F11'
+      OR DIAG3_07 = 'F11'
+      OR DIAG3_08 = 'F11'
+      OR DIAG3_09 = 'F11'
+      OR DIAG3_10 = 'F11'
+      OR DIAG3_11 = 'F11'
+      OR DIAG3_12 = 'F11'
+      OR DIAG3_13 = 'F11'
+      OR DIAG3_14 = 'F11'
+      OR DIAG3_15 = 'F11'
+      OR DIAG3_16 = 'F11'
+      OR DIAG3_17 = 'F11'
+      OR DIAG3_18 = 'F11'
+      OR DIAG3_19 = 'F11'
+      OR DIAG3_20 = 'F11')) opi
+
+on ae.ENCRYPTED_HESID = opi.ENCRYPTED_HESID
+WHERE FYEAR IN ('1718', '1819', '1920', '2021', '2122')
