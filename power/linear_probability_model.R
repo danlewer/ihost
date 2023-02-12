@@ -1,11 +1,3 @@
-# TO DO
-# what about NA disdates or 1801-01-01? (impute some with speldur?)
-# fix drug-related codes
-# add COVID-19 beds as hospital-level variable
-# check that PROCODE3 and SITETRET are being used correctly
-# impute STARTAGE
-# 
-
 library(data.table)
 library(stringi)
 library(lubridate)
