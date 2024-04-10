@@ -1,0 +1,158 @@
+study_id,first_author,study_year,include,country,ost_medication_type,elements
+1,Ahmed,2019,no,,,
+3,Sokol,2021,no,,,
+4,Winetsky,2018,no,,,
+5,Tang,2020,no,,,
+7,Samuels,2019,no,,,
+8,Wakeman,2021,yes,United States,Buprenorphine,Continuity of OAT from community to hospital;Continuity of OAT from hospital to community;Assessing eligibility;Training and education;Specialist liaison and addiction consult teams
+9,Vyas,2022,yes,United States,Methadone and buprenorphine,Specialist liaison and addiction consult teams
+10,Ray,2019,no,,,
+12,Sorensen,2005,no,,,
+13,Ramdin,2022,yes,United States,Buprenorphine,Guidance or protocol;Peer support
+14,Reuter,2022,no,,,
+15,Pirard,2020,no,,,
+17,Noori,2021,no,,,
+19,McMillian,2009,no,,,
+21,Theisen-Toupal,2017,no,,,
+22,Low,2020,no,,,
+23,Love,2018,no,,,
+24,LeSaint,2020,no,,,
+25,Koch,2018,no,,,
+26,Knopf,2018,no,,,
+27,Kilaru,2020,no,,,
+16,Patel,2021,no,,,
+29,Kaucher,2020,no,,,
+30,Kalmin,2021,no,,,
+31,Johns,2018,no,,,
+32,Jennings,2020,yes,United States,Buprenorphine,Training and education
+33,Wakeman,2017,yes,United States,Methadone and buprenorphine,Continuity of OAT from hospital to community;Training and education;Peer support;Specialist liaison and addiction consult teams
+18,Melnick,2020,no,,,
+39,Snyder,2021,yes,United States,Buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Training and education
+40,Walter,2021,yes,United States,Buprenorphine,Training and education
+41,Salter,2020,no,,,
+42,Reuter,2020,yes,United States,Buprenorphine,Continuity of OAT from hospital to community;Peer support;Specialist liaison and addiction consult teams
+20,Martin,2019,no,,,
+43,Wakeman,2021,no,,,
+44,Sholl,2019,no,,,
+45,Quaye,2020,yes,United States,Buprenorphine,Guidance or protocol;Continuity of OAT from community to hospital
+46,Perez-Rivera,2022,no,,,
+53,Mospan,2021,no,,,
+52,Myles,2021,no,,,
+55,Mitchell,2022,no,,,
+56,Lowenstein,2022,yes,United States,Buprenorphine,Training and education;Peer support
+57,Le,2021,no,,,
+54,Moe,2020,no,,,
+58,Marshall,2020,no,,,
+59,Liebschutz,2014,yes,United States,Buprenorphine,Continuity of OAT from hospital to community
+60,Kaczorowski,2020,yes,,,
+62,Harris,2021,no,,,
+61,Thakrar,2021,yes,United States,Buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Training and education;Peer support
+63,Wiercigroch,2021,no,,,
+64,Hawk,2021,no,,,
+65,Smith,2021,no,,,
+66,Stewart,2021,no,,,
+68,Hu,2019,yes,Canada,Buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Assessing eligibility;Training and education
+69,Herring,2021,no,,,
+70,Herring,2019,no,,,
+48,Roy,2021,yes,United States,Buprenorphine,Continuity of OAT from hospital to community
+49,Plawman,2019,no ,,,
+50,McLane,2020,yes,Canada,Buprenorphine,Guidance or protocol
+51,Martin,2020,no,,,
+73,Hartman,2021,no,,,
+72,Hawk,2020,no,,,
+75,Gruber,2017,no,,,
+67,Holland,2020,yes,United States,Buprenorphine,Guidance or protocol
+77,Fujita,2021,yes,United States,Methadone and buprenorphine,Training and education
+78,Fujita,2020,no,,,
+76,Gertner,2021,yes,United States,Buprenorphine,Assessing eligibility
+47,Trowbridge,2017,no,,,
+79,Foster,2020,yes,United States,Buprenorphine,Training and education
+80,Fard,2017,yes,,,
+81,Ray,2020,yes,United States,Methadone and buprenorphine,Guidance or protocol;Training and education;Specialist liaison and addiction consult teams
+82,Dunham,2021,no,,,
+83,D'Onofrio,2017,no,,,
+74,Grunvald,2021,no,,,
+87,Cushman,2016,no,,,
+88,Farrell,2019,no,,,
+89,Cisewski,2019,no,,,
+90,Button,2022,no,,,
+91,Bottner,2021,no,,,
+92,Bhatraju,2022,no,,,
+93,Beauchamp,2021,no,,,
+94,AHC,2018,no,,,
+95,Barnett,2006,no,,,
+37,Raheemullah,2019,no,,,
+97,Ahmed,2021,no,,,
+98,Calello,2020,no,,,
+96,Alexandridis,2019,no,,,
+84,Cushman,2016,no,,,
+85,Dale,2019,no,,,
+100,Christian,2021,no,,,
+101,Christian,2020,no,,,
+102,Samuels,2018,no,,,
+103,Farrar,2019,no,,,
+104,Eleanya,2019,no,,,
+105,Callister,2022,yes,United States,Methadone and buprenorphine,Specialist liaison and addiction consult teams
+106,Callister,2022,no,,,
+38,Wang,2020,yes,United States,Buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Training and education
+107,Calcaterra,2021,yes,United States,Methadone and buprenorphine,Specialist liaison and addiction consult teams
+109,Calcaterra,2020,no,,,
+114,Busch,2017,no,,,
+115,Busch,2015,no,,,
+116,Burton,2020,no,,,
+117,Brothers,2022,no,,,
+113,Bogan,2020,no,,,
+119,Brothers,2021,yes,Canada,Methadone and buprenorphine,Specialist liaison and addiction consult teams
+120,Blevins,2020,no,,,
+121,Blevins,2021,no,,,
+122,Bergman,2021,no,,,
+123,Bostwick,2019,no,,,
+124,Brothers,2022,no,,,
+125,Baslock,2021,no,,,
+126,Appa,2018,no,,,
+127,American,2020,no,,,
+128,Anderson,2010,yes,United Kingdom,Methadone,Guidance or protocol
+34,Wakeman,2020,no,,,
+36,Zavodnick,2021,no,,,
+71,Herring,2018,no,,,
+86,D'Onofrio,2015,no,,,
+35,Wakeman,2022,no,,,
+118,Brothers,2022,no,,,
+110,Cahill,2021,no,,,
+111,Butler,2022,yes,United States,Buprenorphine,Training and education;Peer support
+112,Bogan,2020,yes,United States,Buprenorphine,Assessing eligibility;Training and education;Peer support
+2,Swoboda,2019,no,,,
+6,Weimer,2021,no,,,
+28,Kelly,2020,yes,United States,Buprenorphine,Continuity of OAT from hospital to community
+11,Suzuki,2016,no,,,
+129,Bottner,2020,yes,United States,Buprenorphine,Continuity of OAT from community to hospital;Continuity of OAT from hospital to community;Specialist liaison and addiction consult teams
+131,Clifton,2022,yes,United States,Methadone and buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Specialist liaison and addiction consult teams
+133,Englander,2019,yes,United States,Methadone and buprenorphine,Specialist liaison and addiction consult teams
+133,Englander,2022,no,,,
+134,Englander,2019,no,,,
+135,Englander,2017,no,,,
+136,French,2021,yes,,,
+137,Gorfinkel,2019,yes,Canada,Unclear,Training and education
+139,Hawk,2018,no,,,
+140,Hyshka,2019,yes,Canada,Methadone and buprenorphine,Specialist liaison and addiction consult teams
+141,Jack,2022,yes,United States,Buprenorphine,Peer support
+142,Kerins,2022,yes,United States,Methadone and buprenorphine,Specialist liaison and addiction consult teams
+143,Marks,2019,no,,,
+138,Graddy,2019,no,,,
+145,Melnick,2022,yes,United States,Buprenorphine,Assessing eligibility
+146,Nordeck,2018,no,,,
+148,Taylor,2022,no,,,
+149,Thomas,2022,yes,United States,Buprenorphine,Continuity of OAT from hospital to community;Peer support
+150,Wakeman,2021,no,,,
+151,Wakeman,2017,no,,,
+152,Weimer,2022,no,,,
+153,Weimer,2019,yes,,,
+147,Paras,2023,yes,United States,Methadone and buprenorphine,Guidance or protocol;Specialist liaison and addiction consult teams
+156,Williams,2022,yes,United States,Buprenorphine,Guidance or protocol
+157,Zavodnick,2022,yes,United States,Methadone and buprenorphine,Guidance or protocol
+130,Cao,2020,no,,,
+154,Whiteside,2022,no,,,
+155,Whiteside,2021,no,,,
+144,McGuire,2020,yes,United States,Methadone and buprenorphine,Peer support
+99,Christian,2021,yes,United States,Buprenorphine,Specialist liaison and addiction consult teams
+108,Calcaterra,2022,yes,United States,Methadone and buprenorphine,Specialist liaison and addiction consult teams
