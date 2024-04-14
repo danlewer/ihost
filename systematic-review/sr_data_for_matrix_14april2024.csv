@@ -1,0 +1,42 @@
+study_id,country,ost_medication_type,elements,type
+8,United States,Buprenorphine,Continuity of OAT from community to hospital;Continuity of OAT from hospital to community;Training and education;Multidisciplinary care,addiction_consult
+9,United States,Methadone and buprenorphine,Multidisciplinary care,multidisciplinary_care
+13,United States,Buprenorphine,Guidance or protocol;Peer support,ed_ost
+32,United States,Buprenorphine,Training and education,ed_ost
+33,United States,Methadone and buprenorphine,Continuity of OAT from hospital to community;Training and education;Peer support;Multidisciplinary care,addiction_consult
+39,United States,Buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Training and education;Peer support,ed_ost
+40,United States,Buprenorphine,Training and education,ed_ost
+42,United States,Buprenorphine,Continuity of OAT from hospital to community;Peer support,ed_ost
+56,United States,Buprenorphine,Training and education;Peer support;Continuity of OAT from hospital to community;Electronic workflow,ed_ost
+59,United States,Buprenorphine,Continuity of OAT from hospital to community,skills_procedures
+61,United States,Buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Training and education;Peer support,skills_procedures
+68,Canada,Buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Training and education,ed_ost
+50,Canada,Buprenorphine,Guidance or protocol;Training and education;Continuity of OAT from hospital to community,ed_ost
+67,United States,Buprenorphine,Guidance or protocol;Training and education;Electronic workflow,ed_ost
+77,United States,Methadone and buprenorphine,Training and education,skills_procedures
+76,United States,Buprenorphine,Peer support,ed_ost
+79,United States,Buprenorphine,Training and education,ed_ost
+81,United States,Methadone and buprenorphine,Guidance or protocol;Training and education;Multidisciplinary care,multidisciplinary_care
+105,United States,Methadone and buprenorphine,Multidisciplinary care;Continuity of OAT from hospital to community,addiction_consult
+38,United States,Buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Training and education;Electronic workflow,skills_procedures
+107,United States,Methadone and buprenorphine,Multidisciplinary care;Continuity of OAT from hospital to community;Training and education,addiction_consult
+119,Canada,Methadone and buprenorphine,Multidisciplinary care;Continuity of OAT from hospital to community,addiction_consult
+128,United Kingdom,Methadone,Guidance or protocol;Continuity of OAT from hospital to community;Multidisciplinary care,skills_procedures
+111,United States,Buprenorphine,Training and education;Electronic workflow,ed_ost
+112,United States,Buprenorphine,Training and education;Peer support;Continuity of OAT from hospital to community;Multidisciplinary care,ed_ost
+28,United States,Buprenorphine,Continuity of OAT from hospital to community;Multidisciplinary care,ed_ost
+129,United States,Buprenorphine,Continuity of OAT from community to hospital;Continuity of OAT from hospital to community;Multidisciplinary care,addiction_consult
+131,United States,Methadone and buprenorphine,Guidance or protocol;Continuity of OAT from hospital to community;Multidisciplinary care,addiction_consult
+133,United States,Methadone and buprenorphine,Continuity of OAT from hospital to community;Multidisciplinary care,addiction_consult
+137,Canada,Unclear,Training and education;Multidisciplinary care,addiction_consult
+140,Canada,Methadone and buprenorphine,Continuity of OAT from hospital to community;Multidisciplinary care,addiction_consult
+141,United States,Buprenorphine,Peer support;Continuity of OAT from hospital to community,skills_procedures
+142,United States,Methadone and buprenorphine,Multidisciplinary care;Training and education;Continuity of OAT from hospital to community,addiction_consult
+145,United States,Buprenorphine,Training and education;Continuity of OAT from hospital to community;Electronic workflow,ed_ost
+149,United States,Buprenorphine,Continuity of OAT from hospital to community;Peer support,ed_ost
+147,United States,Methadone and buprenorphine,Guidance or protocol;Multidisciplinary care;Electronic workflow,multidisciplinary_care
+156,United States,Buprenorphine,Guidance or protocol;Peer support;Continuity of OAT from hospital to community;Training and education;Electronic workflow,skills_procedures
+157,United States,Methadone and buprenorphine,Guidance or protocol;Training and education;Continuity of OAT from hospital to community,skills_procedures
+144,United States,Methadone and buprenorphine,Continuity of OAT from hospital to community;Peer support,ed_ost
+99,United States,Buprenorphine,Multidisciplinary care;Continuity of OAT from hospital to community,addiction_consult
+108,United States,Methadone and buprenorphine,Multidisciplinary care;Training and education,addiction_consult
