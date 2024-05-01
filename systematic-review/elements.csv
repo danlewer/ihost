@@ -1,6 +1,6 @@
 study_id,country,ost_medication_type,elements,type
 8,United States,Buprenorphine,Continuity of OAT from community to hospital;Continuity of OAT from hospital to community;Training and education;Multidisciplinary care,addiction_consult
-9,United States,Methadone and buprenorphine,Multidisciplinary care,multidisciplinary_care
+9,United States,Methadone and buprenorphine,Multidisciplinary care;Guidance or protocol,multidisciplinary_care
 13,United States,Buprenorphine,Guidance or protocol;Peer support,ed_ost
 32,United States,Buprenorphine,Training and education,ed_ost
 33,United States,Methadone and buprenorphine,Continuity of OAT from hospital to community;Training and education;Peer support;Multidisciplinary care,addiction_consult
